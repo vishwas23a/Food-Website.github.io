@@ -1,0 +1,25 @@
+#home{
+    height: 380px;
+    padding: 3px 78px;
+
+}
+#home::before{
+    height: 480px;
+}
+#home p{
+    font-size: 13px;
+
+}
+.primary1{
+    font-size: 20px;
+}
+#services{
+    flex-direction: column;
+}
+#clients{
+    overflow: hidden;
+}
+#navbar{
+    flex-direction: column;
+    position: sticky;
+}
